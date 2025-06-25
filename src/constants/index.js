@@ -51,15 +51,15 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Programmer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Software Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: " AI/ML Automation",
     icon: creator,
   },
 ];
