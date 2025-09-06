@@ -36,6 +36,7 @@ import gdsc from "./company/gdsc.png";
 
 import promptlyai from "./promptlyai.png";
 import orionai from "./orionai.png";
+import joluplex from "./joluplex.jpg"
 
 export {
   icon,
@@ -71,4 +72,5 @@ export {
   gdsc,
   promptlyai,
   orionai,
+  joluplex
 };

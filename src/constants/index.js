@@ -28,6 +28,7 @@ import {
   threejs,
   promptlyai,
   orionai,
+  joluplex
 } from "../assets";
 
 export const navLinks = [
@@ -59,7 +60,7 @@ const services = [
     icon: backend,
   },
   {
-    title: " AI/ML Automation",
+    title: "React Native Developer",
     icon: creator,
   },
 ];
@@ -272,6 +273,42 @@ const projects = [
     source_code_link: "https://github.com/rahulisbusy/Promptly-AI-CONTENT-",
     deployment_link: "https://promptly-ai-content.vercel.app/",
   },
+  {
+  name: "Joluplex - Campus Social Platform",
+  description:
+    "A social media platform for students of Jalpaiguri Government Engineering College to share updates, connect, and engage through events, posts, and real-time interactions with a modern mobile interface.",
+  tags: [
+    {
+     name: "typescript",
+      color: "red-text-gradient",
+    },
+    {
+      name: "react native",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "expo go",
+      color: "cyan-text-gradient",
+    },
+    {
+      name: "tailwind css",
+      color: "pink-text-gradient",
+    },
+    {
+      name: "node.js",
+      color: "green-text-gradient",
+    },
+    {
+      name: "postgresql",
+      color: "purple-text-gradient",
+    }
+  ],
+  image: joluplex, // Replace with your actual image variable
+  source_code_link: "https://github.com/rahulisbusy/Joluplex", // Replace with your repo link
+   // Replace with your Expo/hosted link
+},
+
+
 ];
 
 
